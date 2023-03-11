@@ -10,5 +10,5 @@ It can also help cinemas assign screening locations in areas with high demand an
 
 
 ##Content
-About eight months sales history of different cinemas with detailed data of screening , during 2018 with encoded annonymized locations .
+Eight months sales history of different cinemas with detailed data of screening , during 2018 with encoded annonymized locations .
 
