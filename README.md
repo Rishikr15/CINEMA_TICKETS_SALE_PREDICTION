@@ -1,5 +1,5 @@
 # CINEMA_TICKETS_SALE_PREDICTION
-USING Logical and Linear Regression
+USING logistic and Linear Regression
 The cinema industry can benefit from the use of predictive modeling, just like other industries such as retail, banking, and restaurants. 
 Sales forecasting can help cinemas reduce costs and improve their return on investment. 
 By predicting sales, cinemas can optimize their screening locations, target their marketing more effectively, and set appropriate pricing.
